@@ -1,15 +1,6 @@
 /*
  Calculates the check digit of a Canadian Social Insurance Number (SIN) if given a stream of eight digits,
  or verifies the validity of a SIN if given a stream of nine digits.
- 
- ---
- 
- I, Nicholas Kim, the copyright holder of this work, release this work into the public domain.
- This applies worldwide.
- 
- In some countries this may not be legally possible; if so:
- I grant anyone the right to use this work for any purpose, without any conditions,
- unless such conditions are required by law.
  */
 
 public class CalcSINCheckDigit {
